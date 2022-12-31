@@ -5,7 +5,7 @@
   top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
-  background: radial-gradient(#00E7BD, #013A4E);
+  background: radial-gradient(#00E7BD, rgba(78, 1, 72, 0.6745098039));
   transition: all 0.5s;
 }
 
@@ -16,7 +16,7 @@
   top: 10%;
   left: 10%;
   transform: translateX(-50%), translateY(-50%);
-  background: linear-gradient(#00E7BD, #013A4E);
+  background: linear-gradient(#67318d, #b1d264);
   box-shadow: 0 0 20px #013A4E;
 }
 
