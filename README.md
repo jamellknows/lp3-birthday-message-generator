@@ -10,6 +10,9 @@ This project uses HTML, CSS and Javascript to display a series of pre-constructe
 ### Dependencies
 
 There are no dependiencies for this web page.
+https://jamellknows.github.io/lp3-birthday-message-generator/
+![Screenshot](/public/screenshot.jpg?raw=true "Optional Title")
+
 
 ### Installing
 
