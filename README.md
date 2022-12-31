@@ -14,25 +14,6 @@ https://jamellknows.github.io/lp3-birthday-message-generator/
 ![Screenshot](/public/screenshot.jpg?raw=true "Optional Title")
 
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
